@@ -67,7 +67,7 @@ repository to see a minimal Electron app in action.
 
 You can ask questions and interact with the community in the following
 locations:
-- [`electron`](http://discuss.atom.io/c/electron) category on the Atom
+**- [`electron`](http://discuss.atom.io/c/electron) category on the Atom**
 forums
 - `#atom-shell` channel on Freenode
 - [`Atom`](http://atom-slack.herokuapp.com/) channel on Slack
